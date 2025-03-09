@@ -1,0 +1,5 @@
+LIBRARY ValidatorLib
+EXPORTS
+    Java_validatorLib_ValidatorLib_createValidator
+    Java_validatorLib_ValidatorLib_destroyValidator
+    Java_validatorLib_ValidatorLib_validate
